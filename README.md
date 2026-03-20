@@ -66,7 +66,3 @@ This prototype was created for hackathon demonstration purposes to showcase how 
 * UPI live payout integration
 * AI fraud engine
 * Dynamic risk pricing
-
-## Team
-
-Built as part of hackathon prototype development.

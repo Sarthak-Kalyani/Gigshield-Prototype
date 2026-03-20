@@ -1,5 +1,4 @@
 # Gigshield-Prototype
-# GigShield — Interactive Prototype
 
 GigShield is a prototype web application designed to demonstrate an AI-powered micro-insurance solution for gig workers such as delivery riders and platform workers.
 
